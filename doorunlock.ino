@@ -67,7 +67,6 @@ void setup()
   liquid_crystal_display.setCursor(0,1);
 
   initialpassword();
-
 }
 
 
