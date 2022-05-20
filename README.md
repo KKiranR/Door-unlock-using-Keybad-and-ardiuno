@@ -31,6 +31,7 @@ Based on ardiuno creating a door unlock and locking system which can be used for
 Code is given the repo please check it <br />
 <span style="color: RED"> Caution:  </span>
 please make sure the connections are correct before running the code <br/>if you  connect a 9V battery it dosent last longer
-so make sure that
+so make sure that<br/>
+
 Author: K Kiran Reddy<br/>
  Email: kiranreddykalakota2003@gmail.com (for any disparencies)
