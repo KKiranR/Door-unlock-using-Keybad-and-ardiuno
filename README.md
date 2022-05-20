@@ -1,5 +1,5 @@
 # Door-unlock-using-Keybad-and-ardiuno
-Based on ardiuno creating a door unlock and locking system which can be used for security purposes
+Ardiuno based  door unlock and locking system which can be used for security purposes
 ### Schematic
 ![](https://i.imgur.com/exVMrqZ.png)
 ### Connections
